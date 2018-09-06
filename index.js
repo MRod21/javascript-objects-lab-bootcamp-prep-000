@@ -19,4 +19,4 @@ function destructivelyDeleteFromObjectByKey(object, key) {
       return object
 }
 
-var obj = {prop: '1'}
+var obj = {prop: 1}
