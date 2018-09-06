@@ -10,7 +10,7 @@ function destructivelyUpdateObjectWithKeyAndValue(object, key, value) {
 }
 
 function deleteFromObjectByKey(object, key) {
-    var newObj = Object.assin{
+    var newObj = Object.assin({}
     return object.key 
     return obj
 }
